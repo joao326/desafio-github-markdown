@@ -40,9 +40,6 @@ Para começar, é importante entender o que são as duas ferramentas utilizadas 
 - **Git** é uma ferramenta de controle de versão local e distribuída.
 - **GitHub** é uma plataforma baseada na web para armazenar, compartilhar e colaborar em projetos Git.
 
-
 Fiz um desenho no excallidraw para representar os conceitos que aprendi ao longo do curso:
 
-
-![[Etapas do git e github.png]]
-
+![Etapas do git e github.png](EtapasDoGitEGithub.png)
