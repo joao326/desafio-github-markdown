@@ -1,6 +1,6 @@
 # Resumão sobre Github
-status:: #zettel/fleeting 
-tags:: #DIO/git #Programação/Git 
+ 
+ 
 
 Nesta aula, recordaremos as noções básicas do Github para que possamos compreender melhor seus recursos e produtos fundamentais.
 

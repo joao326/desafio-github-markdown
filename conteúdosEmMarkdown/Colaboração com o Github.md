@@ -1,6 +1,6 @@
 # Colaboração com o Github
-status:: #zettel/fleeting 
-tags:: #DIO/git #Programação/Git 
+ 
+ 
 ## Repositório
 
 - Local onde contém todos os arquivos de um projeto. 

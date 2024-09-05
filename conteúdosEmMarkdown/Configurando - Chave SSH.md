@@ -1,6 +1,6 @@
 # Configurando - Chave SSH
-status:: #zettel/fleeting 
-tags:: #DIO/git #Programação/Git 
+ 
+ 
 
 Chaves SSH são como chaves especiais que ajudam as pessoas a se conectarem a computadores remotos de forma segura, sem precisar sempre digitar senha ou token.
 

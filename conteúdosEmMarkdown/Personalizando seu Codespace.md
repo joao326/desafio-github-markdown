@@ -1,6 +1,6 @@
 # Personalizando seu Codespace
-status:: #zettel/fleeting 
-tags:: #DIO/git #Programação/Git 
+ 
+ 
 
 GitHub Codespaces é um ambiente dedicado para você. Você pode configurar seus repositórios com um contêiner de desenvolvimento para definir seu ambiente GitHub Codespaces.
 

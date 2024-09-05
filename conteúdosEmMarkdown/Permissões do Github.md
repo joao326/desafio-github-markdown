@@ -1,6 +1,6 @@
 # Permissões do Github
-status:: #zettel/fleeting 
-tags:: #DIO/git #Programação/Git 
+ 
+ 
 
 Nesta aula, abordaremos sobre as permissões de nível hierárquico dentro do github.
 

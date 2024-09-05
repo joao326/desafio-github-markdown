@@ -1,6 +1,6 @@
 # O que é o Git e o Github
-status:: #zettel/fleeting 
-tags:: #DIO/git #Programação/Git
+ 
+
 
 ## Git
 - Sistema de controle de versão distribuído (DVCS)

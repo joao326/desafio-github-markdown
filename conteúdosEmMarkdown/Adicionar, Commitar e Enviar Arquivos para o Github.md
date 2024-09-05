@@ -1,6 +1,6 @@
 # Adicionar, Commitar e Enviar Arquivos para o Github
-status:: #zettel/fleeting 
-tags:: #DIO/git #Programação/Git 
+ 
+ 
 
 Um dos passos fundamentais no Github é o processo de adicionar, commitar e enviar os arquivos para os nossos repositórios no github, a baixo, podemos ver o passo a passo desses procedimentos.
 

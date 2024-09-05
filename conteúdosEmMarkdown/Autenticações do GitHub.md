@@ -1,6 +1,6 @@
 # Autenticações do GitHub
-status:: #zettel/fleeting 
-tags:: #DIO/git #Programação/Git 
+ 
+ 
 
 **>> NOME DE USUÁRIO E SENHA**
 1. É considerada arriscada para informações sensíveis. 

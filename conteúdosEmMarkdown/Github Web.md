@@ -1,6 +1,6 @@
 # Github Web
-status:: #zettel/fleeting 
-tags:: #DIO/git #Programação/Git 
+ 
+ 
 
 O GitHub Web é a interface baseada na web da plataforma GitHub, oferecendo um ambiente centralizado para gerenciar repositórios Git, colaborar em projetos e interagir com a comunidade de dev.
 

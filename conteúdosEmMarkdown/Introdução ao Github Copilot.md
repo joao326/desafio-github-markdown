@@ -1,6 +1,6 @@
 # Introdução ao Github Copilot
-status:: #zettel/fleeting 
-tags:: #DIO/git #Programação/Git 
+ 
+ 
 
 GitHub Copilot é um parceiro de codificação de IA que fornece sugestões de preenchimento automático enquanto você codifica. Obtenha sugestões digitando o código ou descrevendo-o em linguagem natural.
 

@@ -1,6 +1,6 @@
 # Conflitos gitignore
-status:: #zettel/fleeting 
-tags:: #DIO/git #Programação/Git 
+ 
+ 
 
 Em alguns momentos podemos nos deparar com alguns conflitos no git e github. Então, deixo algumas dicas, comandos e explicações que podem ajuda-los.
 

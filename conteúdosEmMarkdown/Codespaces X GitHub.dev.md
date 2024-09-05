@@ -1,6 +1,6 @@
 # Codespaces X GitHub.dev
-status:: #zettel/fleeting 
-tags:: #DIO/git #Programação/Git 
+ 
+ 
 
 Você provavelmente está se perguntando: quando devo usar GitHub Codespaces e quando devo usar GitHub.dev?
 

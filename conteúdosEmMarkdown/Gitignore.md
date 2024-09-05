@@ -1,6 +1,6 @@
 # Gitignore
-status:: #zettel/fleeting 
-tags:: #DIO/git #Programação/Git 
+ 
+ 
 
 O arquivo .gitignore é usado no Git para especificar quais arquivos e diretórios devem ser ignorados pelo controle de versão. Assim evitamos que arquivos desnecessários sejam incluídos no repositório.
 

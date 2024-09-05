@@ -1,8 +1,9 @@
 # Principais comandos do Git
-status:: #zettel/fleeting 
-tags:: #DIO/git #Programação/Git 
+ 
+ 
 
-![[image.jpeg]]
+![PrincipaisComandosDoGit](../imagens/PrincipaisComandosDoGit.jpeg)
+
 1. **git init**
     - Inicia um novo repositório Git no diretório atual.
 2. **git clone \[URL]**

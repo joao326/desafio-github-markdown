@@ -1,6 +1,6 @@
 # Sobre o GitHub Certifications
-status:: #zettel/fleeting 
-tags:: #DIO/git #Programação/Git 
+ 
+ 
 
 Neste tópico, vamos conhecer um pouco sobre as quatro novas Certificações do Github :)
 

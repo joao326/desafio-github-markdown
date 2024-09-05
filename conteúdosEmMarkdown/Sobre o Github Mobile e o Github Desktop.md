@@ -1,6 +1,6 @@
 # Sobre o Github Mobile e o Github Desktop
-status:: #zettel/fleeting 
-tags:: #DIO/git #Programação/Git 
+ 
+ 
 
 Agora conheceremos o Github Mobile possibilitando um acesso mais rápido e seguro dos nossos projetos do Github através de um app confiável. Além de conhecermos o Github Desktop.
 

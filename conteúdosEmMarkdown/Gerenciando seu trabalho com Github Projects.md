@@ -1,6 +1,6 @@
 # Gerenciando seu trabalho com Github Projects
-status:: #zettel/fleeting 
-tags:: #DIO/git #Programação/Git 
+ 
+ 
 
 Vamos aprender sobre o Projects, umaa ferramenta de gerenciamento de programas do GitHub, onde podemos organizar e priorizar o trabalho da nossa equipe em um único espaço. Bora lá?! xD
 

@@ -1,6 +1,6 @@
 # Conhecendo a Administração do Github
-status:: #zettel/fleeting 
-tags:: #DIO/git #Programação/Git 
+ 
+ 
 
 Você aprenderá os conceitos fundamentais para utilizar as ferramentas do GitHub, as medidas de segurança e os controle disponíveis para administradores do GitHub em uma organização ou empresa.
 ## O que é a administração do Github?

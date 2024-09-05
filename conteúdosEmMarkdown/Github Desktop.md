@@ -1,6 +1,6 @@
 # Github Desktop
-status:: #zettel/fleeting 
-tags:: #DIO/git #Programação/Git 
+ 
+ 
 
 O GitHub Desktop é uma interface gráfica fácil de usar para o sistema de controle de versão Git.
 

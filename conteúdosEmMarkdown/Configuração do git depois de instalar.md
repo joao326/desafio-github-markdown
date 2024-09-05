@@ -1,6 +1,6 @@
 # Configuração do git depois de instalar
-status:: #zettel/fleeting 
-tags:: #DIO/git #Programação/Git
+ 
+
 
 ```git-bash
 git config --global user.name "jpcad(nome do meu usuário)"

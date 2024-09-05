@@ -1,6 +1,6 @@
 # Formatação com o Markdown
-status:: #zettel/fleeting 
-tags:: #DIO/git #Programação/Git 
+ 
+ 
 
 Nesta aula, descobriremos a estrutura e a sintaxe do Markdown. Também veremos recursos do GitHub-Flavored Markdown (GFM), que são extensões de sintaxe que permitem integrar recursos do GitHub.
 

@@ -1,6 +1,6 @@
 # Introdução ao Inner Soucer
-status:: #zettel/fleeting 
-tags:: #DIO/git #Programação/Git 
+ 
+ 
 
 Vamos entender o que é o Inner Souce, seus benefícios, visibilidade e permissões no github, além de algumas dicas do github.
 

@@ -1,6 +1,6 @@
 # Diferenças entre Github Desktop e Github Web
-status:: #zettel/fleeting 
-tags:: #DIO/git #Programação/Git 
+ 
+ 
 
 O GitHub Web e o GitHub Desktop são duas interfaces diferentes para interagir com o GitHub, uma plataforma de hospedagem de código-fonte e colaboração em projetos de software.
 

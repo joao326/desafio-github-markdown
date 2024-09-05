@@ -1,6 +1,6 @@
 # Configurando -  2FA
-status:: #zettel/fleeting 
-tags:: #DIO/git #Programação/Git 
+ 
+ 
 
 A autenticação de dois fatores (2FA) adiciona uma camada extra de segurança ao nosso login, exigindo que a gente forneça duas formas de identificação antes de acessar sua conta.
 

@@ -1,6 +1,6 @@
 # Como o git e o github se relacionam
-status:: #zettel/fleeting 
-tags:: #DIO/git #Programação/Git
+ 
+
 
 1. **Hospedagem de Repositórios:**
     - Git é o sistema que rastreia as alterações e gerencia o controle de versão localmente em sua máquina.

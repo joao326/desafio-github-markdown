@@ -1,6 +1,6 @@
 # Introdução ao Codespace
-status:: #zettel/fleeting 
-tags:: #DIO/git #Programação/Git 
+ 
+ 
 
 Vamos entender um pouco sobre o ciclo de vida do Codespace
 

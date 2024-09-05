@@ -1,6 +1,6 @@
 # Github Contas e Planos
-status:: #zettel/fleeting 
-tags:: #DIO/git #Programação/Git 
+ 
+ 
 
 Vamos lá pessoal, vamos agora abordar sobre os tipos e planos de conta do Github.
 

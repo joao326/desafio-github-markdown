@@ -1,6 +1,6 @@
 # Tokens de Acesso Pessoal
-status:: #zettel/fleeting 
-tags:: #DIO/git #Programação/Git 
+ 
+ 
 
 O token de acesso pessoal do GitHub é uma forma de autenticação usada para acessar recursos e realizar ações na plataforma GitHub em nome de um usuário.
 

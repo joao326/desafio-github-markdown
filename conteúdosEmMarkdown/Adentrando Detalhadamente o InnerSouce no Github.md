@@ -1,6 +1,6 @@
 # Adentrando Detalhadamente o InnerSouce no Github
-status:: #zettel/fleeting 
-tags:: #DIO/git #Programação/Git 
+ 
+ 
 
 Vamos compreender o que é o InnerSouce e suas boas práticas.
 
