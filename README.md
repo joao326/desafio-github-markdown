@@ -1,6 +1,6 @@
 # Um repositório para entender Git e Github
 
-Esse é um repositório que criei para concluir um desafio de um curso de Git e Github na plataforma [DIO](https://web.dio.me). Pretendo aproveitá-lo para resumir tudo que sei a respeito do Git e do Github, além de informações relacionadas.
+Esse é um repositório que criei para concluir um desafio de um curso de Git e Github na plataforma [DIO](https://web.dio.me). Pretendo aproveitá-lo para resumir tudo que sei a respeito do Git e do Github, além de informações relacionadas. Há uma cópia do conteúdo contido aqui na wiki deste repositório, caso prefire ler por lá.
 
 ## O que é Git e Github
 
